@@ -21,7 +21,7 @@ In this task, you are required to load images as tensors and treat all pixel col
 
 A demo: 
 <p align="center">
-  <img src="https://github.com/UB-CSE587/homework_1/blob/main/demo.png" alt="demo" width="800"/>
+  <img src="https://raw.githubusercontent.com/UB-CSE587/homework_1/main/demo.png" alt="demo" width="800"/>
 </p>
 
 ## 2. Submission Format:
