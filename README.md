@@ -57,7 +57,7 @@ We will set up a Python environment with common packages like Torch, scikit-lear
 The score will be assigned as:
 ### Task 1
 - Successful code execution: 15,
-- Mislabeled data detection: 15 points: 15, 
+- Mislabeled data detection: 15, 
 - report writing quality: 20
 
 ### Task 2
