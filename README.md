@@ -21,11 +21,11 @@ Your code is expected to write and save two images within a reasonable amount of
 ## Report
 GPT-4: Students should not include code in reports for several reasons
 
-- Item 1. Clarity and Professionalism: Academic writing is meant to convey ideas, methods, and findings clearly. Including raw code can disrupt the flow and readability of the report. Instead, students should explain their approach in plain language, focusing on the logic, methods, and reasoning behind the code.
-- Item 2. Brevity and Conciseness: Reports should be concise and focus on the key points. Including code can lead to unnecessary length and distract from the main content. The important information is how the code is applied and the results it produced, not the code itself.
-- Item 3. Technical Documentation: Proper documentation and explanation of the methods in English allow readers to understand the process without needing to parse the code. This helps readers who may not have technical expertise to follow the reasoning.
-- Item 4. Code as a Separate Deliverable: In most cases, code should be submitted separately or in an appendix, where it can be evaluated independently of the report. The report’s purpose is to summarize the results and the approach, while the code is a technical implementation that can be examined by instructors or reviewers directly.
-- Item 5. Focus on Analytical Thinking: Writing a report encourages students to demonstrate their understanding of the problem, how they solved it, and the outcomes. Simply copying code into the report does not show the same level of analytical thinking as explaining how the code works and the rationale behind its design.
+- 1. Clarity and Professionalism: Academic writing is meant to convey ideas, methods, and findings clearly. Including raw code can disrupt the flow and readability of the report. Instead, students should explain their approach in plain language, focusing on the logic, methods, and reasoning behind the code.
+- 2. Brevity and Conciseness: Reports should be concise and focus on the key points. Including code can lead to unnecessary length and distract from the main content. The important information is how the code is applied and the results it produced, not the code itself.
+- 3. Technical Documentation: Proper documentation and explanation of the methods in English allow readers to understand the process without needing to parse the code. This helps readers who may not have technical expertise to follow the reasoning.
+- 4. Code as a Separate Deliverable: In most cases, code should be submitted separately or in an appendix, where it can be evaluated independently of the report. The report’s purpose is to summarize the results and the approach, while the code is a technical implementation that can be examined by instructors or reviewers directly.
+- 5. Focus on Analytical Thinking: Writing a report encourages students to demonstrate their understanding of the problem, how they solved it, and the outcomes. Simply copying code into the report does not show the same level of analytical thinking as explaining how the code works and the rationale behind its design.
 
 
 # Homework 1
