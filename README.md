@@ -11,7 +11,7 @@ If you use a method such as IQR to detect outliers, you may encounter many false
 
 The accuracy is evaluated using the following formula:
 
-$15 * (true_positive - false_positive) / 32$
+```15 * (true_positive - false_positive) / 32```
 
 
 
