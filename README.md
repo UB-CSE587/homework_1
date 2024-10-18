@@ -1,3 +1,21 @@
+# Homework 1 Solution
+
+The example solution is uploaded. 
+
+In evaluating the submitted code, the input directory for `image1`, `image2`, and `linear_regression.csv` is provided in all reasonable relative directories. 
+For Task 1. The ground truth of number of outliers is 32. As shown in the residual distribution plot below. 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UB-CSE587/homework_1/main/residuals_distribution.png" alt="distribution" width="800"/>
+</p>
+If you use a method such as IQR to detect outliers, you may encounter many false positives. This is due to a key limitation of the IQR method when extreme outliers are present. Since the IQR threshold is based on quartiles, it struggles to handle extreme values effectively. For instance, with one extreme outlier having a residual value of 1,000,000 while the rest follow a standard Gaussian distribution, the quartiles fail to account for that extreme outlier, as they primarily reflect the central distribution. It’s important to understand the limitations of the methods you use and ensure that their assumptions are valid for your specific problem.
+
+The accuracy is evaluated using the following formula:
+
+$15 * (true_positive - false_positive) / 32$
+
+
+
+
 # Homework 1
 This homework consists of two tasks. The first task requires students to implement a Linear Regression model for anomaly detection. The second task involves applying the K-Nearest Neighbors (KNN) algorithm and K-means clustering for image editing.
 
