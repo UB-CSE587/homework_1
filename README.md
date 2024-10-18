@@ -19,7 +19,7 @@ The accuracy is evaluated using the following formula:
 Your code is expected to write and save two images within a reasonable amount of time (8 hours); otherwise, it will be considered a failure.
 
 ## Report
-GPT-4: Students should not include code in reports for several reasons
+Students should not include code or screenshot of code in reports for several reasons
 
 - Clarity and Professionalism: Academic writing is meant to convey ideas, methods, and findings clearly. Including raw code can disrupt the flow and readability of the report. Instead, students should explain their approach in plain language, focusing on the logic, methods, and reasoning behind the code.
 - Brevity and Conciseness: Reports should be concise and focus on the key points. Including code can lead to unnecessary length and distract from the main content. The important information is how the code is applied and the results it produced, not the code itself.
