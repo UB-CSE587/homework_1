@@ -9,7 +9,7 @@ The ground truth of number of outliers is 32. As shown in the residual distribut
 <p align="center">
   <img src="https://raw.githubusercontent.com/UB-CSE587/homework_1/main/residuals_distribution.png" alt="distribution" width="800"/>
 </p>
-If you use a method such as IQR to detect outliers, you may encounter many false positives in the right mode. This is due to a key limitation of the IQR method when extreme outliers are present. Since the IQR threshold is based on quartiles, it struggles to handle extreme values effectively. For instance, with one extreme outlier having a residual value of 1,000,000 while the rest follow a standard Gaussian distribution, the quartiles fail to account for that extreme outlier, as they primarily reflect the central distribution. It’s important to understand the limitations of the methods you use and ensure that their assumptions are valid for your specific problem.
+If you use a method like IQR to detect outliers, you may encounter many false positives in the right mode. This stems from a key limitation of the IQR method when extreme outliers are present. Since the IQR threshold is based on quartiles, it struggles to handle extreme values effectively. For example, if one extreme outlier has a residual value of 1,000,000 while the rest follow a standard Gaussian distribution, the quartiles will fail to capture the uniqueness of that extreme outlier.
 
 The accuracy is evaluated using the following formula:
 
