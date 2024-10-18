@@ -3,7 +3,9 @@
 The example solution is uploaded. 
 
 In evaluating the submitted code, the input directory for `image1`, `image2`, and `linear_regression.csv` is provided in all reasonable relative directories. 
-For Task 1. The ground truth of number of outliers is 32. As shown in the residual distribution plot below. 
+
+## Task 1
+The ground truth of number of outliers is 32. As shown in the residual distribution plot below. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/UB-CSE587/homework_1/main/residuals_distribution.png" alt="distribution" width="800"/>
 </p>
@@ -13,7 +15,18 @@ The accuracy is evaluated using the following formula:
 
 ```15 * (true_positive - false_positive) / 32```
 
+## Task 2
+Your code is expected to write and save two images within a reasonable amount of time (8 hours); otherwise, it will be considered a failure.
 
+## Report
+GPT-4: Students should not include code in reports for several reasons
+```
+1.	Clarity and Professionalism: Academic writing is meant to convey ideas, methods, and findings clearly. Including raw code can disrupt the flow and readability of the report. Instead, students should explain their approach in plain language, focusing on the logic, methods, and reasoning behind the code.
+	2.	Brevity and Conciseness: Reports should be concise and focus on the key points. Including code can lead to unnecessary length and distract from the main content. The important information is how the code is applied and the results it produced, not the code itself.
+	3.	Technical Documentation: Proper documentation and explanation of the methods in English allow readers to understand the process without needing to parse the code. This helps readers who may not have technical expertise to follow the reasoning.
+	4.	Code as a Separate Deliverable: In most cases, code should be submitted separately or in an appendix, where it can be evaluated independently of the report. The report’s purpose is to summarize the results and the approach, while the code is a technical implementation that can be examined by instructors or reviewers directly.
+	5.	Focus on Analytical Thinking: Writing a report encourages students to demonstrate their understanding of the problem, how they solved it, and the outcomes. Simply copying code into the report does not show the same level of analytical thinking as explaining how the code works and the rationale behind its design.
+```
 
 
 # Homework 1
